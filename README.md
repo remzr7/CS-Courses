@@ -103,6 +103,8 @@ For Coursera courses, you don't have to sign up to view the lectures.
 * Software Engineering:
   * Mobile Software Engineering: Harvard 
   * Software Engineering for Scientific Computing: Berkeley
+  * [Engineering Software as a Service Part 1](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-1x-engineering-1377#.VBcVCcERbdk): UC Berkeley
+  * [Engineering Software as a Service Part 2](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-2x-engineering-1379#.VBcU5MERbdk): UC Berkeley
 * Mobile App Development:
   * Building Mobile Applications: Harvard
   * iPhone Application Development: ITU
