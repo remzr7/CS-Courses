@@ -143,3 +143,5 @@ For Coursera courses, you don't have to sign up to view the lectures.
   * Probabilistic Systems Analysis and Applied Probability: MIT
   * Statistical Inference: Johns Hopkins
   * Data Analysis and Statistical Inference: Duke
+* Big Data: 
+  * [Web Intelligence and Big Data](https://www.coursera.org/course/bigdata): IIT Delhi
