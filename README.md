@@ -128,6 +128,7 @@ For Coursera courses, you don't have to sign up to view the lectures.
   * Artificial Intelligence: HRW
   * Artificial Intelligence: Berkeley
   * Machine Learning: Stanford
+  * [Social Network Analysis](https://www.coursera.org/course/sna): University of Michigan
 * Natural Language Processing:
   * Natural Language Processing: Columbia
   * Natural Language Processing: Stanford
