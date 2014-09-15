@@ -20,6 +20,7 @@ Finally, electives are courses within the overall curriculum that individuals ma
 
 Our hypothetical curriculum will simplify this model. We will assume no prerequisites are necessary other than an interest in learning the material and a basic high school education.  Our curriculum will also not offer any concentration tracks in the traditional sense, as that would require specialized resources that are not within the scope of our current domain.  Instead, our planned curriculum shall provide for introductory courses, general core requirements, and a choice of electives that may also serve as a basis for further concentration studies.
 
+For Coursera courses, you don't have to sign up to view the lectures. 
 
 
 ###Intro Courses
