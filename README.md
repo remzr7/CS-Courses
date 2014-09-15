@@ -124,6 +124,7 @@ For Coursera courses, you don't have to sign up to view the lectures.
   * Cryptography 2: Stanford
   * Bilinear Pairings in Cryptography: BIU
 * Artificial Intelligence and Machine Learning:
+  * [Learning From Data](https://www.edx.org/course/caltechx/caltechx-cs1156x-learning-data-2516#.VBcWDcERbdk): Caltech 
   * Artificial Intelligence: HRW
   * Artificial Intelligence: Berkeley
   * Machine Learning: Stanford
