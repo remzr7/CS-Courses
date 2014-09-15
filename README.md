@@ -7,7 +7,20 @@ This template consists of intro courses, core courses and advanced courses, all 
 
 Template for learning CS online which would approximately equal to a Bachelors in CS. Forked from http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
 
-This template consists of intro courses, core courses and advanced courses, all freely available from some of the world's best universities. 
+
+There are essentially four major parts to any bachelor’s level course of study, in any given field: pre-requisites, core requirements, concentration requirements and electives.  
+
+Pre-requisites are what you need to know before you even begin. For many courses of study, there are no pre-requisites, and no specialized prior knowledge is required or presumed on the part of the student, since the introductory core requirements themselves provide students with the requisite knowledge and skills.  
+
+Core requirements are courses that anyone in a given field is required to take, no matter what their specialization or specific areas of interest within the field may be.  These sorts of classes provide a general base-level knowledge of the field that can then be built upon in the study of more advanced and specialized topics. 
+
+Concentration requirements are classes that are required as part of a given concentration, focus or specialization within an overall curriculum.  For example, all students who major in computer science at a given university may be required to take two general introductory courses in the field, but students who decide to concentrate on cryptography may be required to take more math classes, while students interested in electrical engineering may take required courses on robotics, while others interested in software development may be required to study programming methodologies and so on.
+
+Finally, electives are courses within the overall curriculum that individuals may decide to take at will, in accordance with their own particular interests.  Some people may prefer to take electives which reenforce sub-fields related to their concentration, while others may elect to sign on for courses that may only be tangentially related to their concentration.
+
+Our hypothetical curriculum will simplify this model. We will assume no prerequisites are necessary other than an interest in learning the material and a basic high school education.  Our curriculum will also not offer any concentration tracks in the traditional sense, as that would require specialized resources that are not within the scope of our current domain.  Instead, our planned curriculum shall provide for introductory courses, general core requirements, and a choice of electives that may also serve as a basis for further concentration studies.
+
+
 
 ###Intro Courses
 
