@@ -147,4 +147,9 @@ For Coursera courses, you don't have to sign up to view the lectures.
 * Data Sciences: 
   * [Introduction to Data Sciences](https://www.coursera.org/course/datasci): University of Washington
   * [Web Intelligence and Big Data](https://www.coursera.org/course/bigdata): IIT Delhi
+  * 
+  
+###Books
+ *[Information Theory, Inference, and Learning Algorithms, David J.C. MacKay](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
+
   
